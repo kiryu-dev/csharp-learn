@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://storage.cloudconvert.com/tasks/2b3b9daf-74e4-45a6-8cfd-36d4c60af12a/zdr2-1.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20230902%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20230902T115924Z&X-Amz-Expires=86400&X-Amz-Signature=b4618f2060325448bb04303088bc8e74ac8c316a90cd0fd2b94b50f960de2c51&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22zdr2-1.csv%22&response-content-type=text%2Fcsv&x-id=GetObject
