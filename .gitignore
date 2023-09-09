@@ -139,5 +139,9 @@ _NCrunch*
 # Save file
 save.yaml
 
+# Debug launch settings
+Properties/
+
 # Visual Studio
 .vs/
+*.sln
